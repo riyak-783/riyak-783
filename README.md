@@ -21,11 +21,9 @@ Welcome to my corner of the internet! I'm a **Full Stack Developer Enthusiast** 
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 - **Tools:**
- <p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
- </p>
+  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ### ⚡ What I'm Currently Doing:
 - 🌱 Exploring new frontiers in **Full Stack Web Development**.
@@ -34,7 +32,7 @@ Welcome to my corner of the internet! I'm a **Full Stack Developer Enthusiast** 
 
 ### 📫 Let's connect and create something amazing:
 - 💼 [LinkedIn](https://www.linkedin.com/in/riya-kumari-452044201/)
-- 📧 [Email Me](riyasln783@gmail.com)
+- 📧 [Email Me](mailto:riyasln783@gmail.com)
 
 ---
 
