@@ -1,6 +1,6 @@
-# 🌟 Hi there, I'm [Your Name]! 👋
+# 🌟 Hi there, I'm Riya Kumari! 👋
 
-Welcome to my corner of the internet! I'm a **Full Stack Developer** with a passion for building elegant and efficient web applications. I love bringing ideas to life with code and enjoy working across the entire stack — from crafting pixel-perfect user interfaces to designing robust backend systems.
+Welcome to my corner of the internet! I'm a **Full Stack Developer Enthusiast** with a passion for building elegant and efficient web applications. I love bringing ideas to life with code and enjoy working across the entire stack — from crafting pixel-perfect user interfaces to designing robust backend systems.
 
 ### 🛠️ My Tech Toolbox:
 - **Frontend:**  
@@ -20,19 +20,21 @@ Welcome to my corner of the internet! I'm a **Full Stack Developer** with a pass
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
+- **Tools:**
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+</p>
+
 ### ⚡ What I'm Currently Doing:
 - 🌱 Exploring new frontiers in **Full Stack Web Development**.
 - 🔭 Working on dynamic web apps that blend intuitive UI and seamless backend logic.
 - 👯 Open for collaborations on impactful projects!
 
-### 🚀 Latest Projects:
-- **Job Portal**: A MERN stack application with resume uploads, job listings, and authentication.
-- **Real Estate Platform**: A modern properties website using React, Framer Motion, and Tailwind CSS.
-- **Weather App**: Real-time weather data with a smooth user interface built in React and Tailwind.
-
 ### 📫 Let's connect and create something amazing:
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- 📧 [Email Me](mailto:your.email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/riya-kumari-452044201/)
+- 📧 [Email Me](riyasln783@gmail.com)
 
 ---
 
