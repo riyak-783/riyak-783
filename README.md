@@ -34,6 +34,27 @@ Welcome to my corner of the internet! I'm a **Full Stack Developer Enthusiast** 
 - 🔭 Working on dynamic web apps that blend intuitive UI and seamless backend logic.
 - 👯 Open for collaborations on impactful projects!
 
+### 🔥 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+### 📊 GitHub Streak:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=your-username&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🌍 Visitor Count:
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=flat-square" alt="Visitor Count" />
+</p>
+
+---
+
 ### 📫 Let's connect and create something amazing:
 - 💼 [LinkedIn](https://www.linkedin.com/in/riya-kumari-452044201/)
 - 📧 [Email Me](mailto:riyasln783@gmail.com)
