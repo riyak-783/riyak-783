@@ -16,6 +16,7 @@ Welcome to my corner of the internet! I'm a **Full Stack Developer Enthusiast** 
    
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
   ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+  ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-005571?style=flat&logo=api&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 - **Databases:**
@@ -23,11 +24,14 @@ Welcome to my corner of the internet! I'm a **Full Stack Developer Enthusiast** 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
   ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-- **Tools:**
+- **Tools and Software:**
   
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
   ![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+  ![MS Excel](https://img.shields.io/badge/-MS_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+  ![MS Word](https://img.shields.io/badge/-MS_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
 
 ### ⚡ What I'm Currently Doing:
 - 🌱 Exploring new frontiers in **Full Stack Web Development**.
