@@ -41,7 +41,7 @@ Welcome to my corner of the internet! I'm a **Full Stack Developer Enthusiast** 
   
 ### Check out my Holopin badges below! These badges represent the achievements and milestones I've earned.
 
-[![An image of @riyaks783's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riyaks783)](https://holopin.io/@riyaks783)
+[![An image of @riyak783's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riyak783)](https://holopin.io/@riyak783)
 
 ### ⚡ What I'm Currently Doing:
 - 🌱 Exploring new frontiers in **Full Stack Web Development**.
