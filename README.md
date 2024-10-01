@@ -38,6 +38,10 @@ Welcome to my corner of the internet! I'm a **Full Stack Developer Enthusiast** 
   ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
   ![MS Excel](https://img.shields.io/badge/-MS_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
   ![MS Word](https://img.shields.io/badge/-MS_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
+  
+### Check out my Holopin badges below! These badges represent the achievements and milestones I've earned.
+
+[![An image of @riyaks783's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riyaks783)](https://holopin.io/@riyaks783)
 
 ### ⚡ What I'm Currently Doing:
 - 🌱 Exploring new frontiers in **Full Stack Web Development**.
