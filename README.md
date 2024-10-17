@@ -51,6 +51,14 @@ Welcome to my corner of the internet! I'm a **Full Stack Developer Enthusiast** 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+## Top Repositories
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)](https://github.com/yourusername/github-readme-stats)
+
 
 ### 📫 Let's connect and create something amazing:
 - 💼 [LinkedIn](https://www.linkedin.com/in/riya-kumari-452044201/)
