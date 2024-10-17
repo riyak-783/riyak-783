@@ -49,6 +49,9 @@ Welcome to my corner of the internet! I'm a **Full Stack Developer Enthusiast** 
 - 👯 Open for collaborations on impactful projects!
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue)
+
+
 ### 📫 Let's connect and create something amazing:
 - 💼 [LinkedIn](https://www.linkedin.com/in/riya-kumari-452044201/)
 - 📧 [Email Me](mailto:riyasln783@gmail.com)
