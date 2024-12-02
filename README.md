@@ -39,7 +39,7 @@ Welcome to my corner of the internet! I'm a **Full Stack Developer Enthusiast** 
   ![MS Excel](https://img.shields.io/badge/-MS_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
   ![MS Word](https://img.shields.io/badge/-MS_Word-2B579A?style=flat&logo=microsoft-word&logoColor=white)
   
-### Check out my Holopin badges below! These badges represent the achievements and milestones I've earned.
+### Check out my Holopin badges below! These badges represent the achievements and milestones I've earned in Hacktoberfest.
 
 [![An image of @riyak783's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riyak783)](https://holopin.io/@riyak783)
 
