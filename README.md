@@ -1,6 +1,6 @@
 # 🌟 Hi there, I'm Riya Kumari! 👋
 
-Welcome to my corner of the internet! I'm a **Full Stack Developer Enthusiast** with a passion for building elegant and efficient web applications. I love bringing ideas to life with code and enjoy working across the entire stack — from crafting pixel-perfect user interfaces to designing robust backend systems.
+Welcome to my corner of the internet! I'm a **Frontend Developer Enthusiast** with a passion for building elegant and efficient web applications. I love bringing ideas to life with code and enjoy working across the entire stack — from crafting pixel-perfect user interfaces to designing robust backend systems.
 
 ### 🛠️ My Tech Toolbox:
 - **Frontend:**
