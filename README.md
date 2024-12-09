@@ -3,6 +3,9 @@
 Welcome to my corner of the internet! I'm a **Frontend Developer Enthusiast** with a passion for building elegant and efficient web applications. I love bringing ideas to life with code and enjoy working across the entire stack — from crafting pixel-perfect user interfaces to designing robust backend systems.
 
 ## 🛠️ My Tech Toolbox:
+
+### Frontend Development
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
